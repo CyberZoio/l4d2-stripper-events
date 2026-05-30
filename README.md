@@ -1,7 +1,7 @@
 ### l4d2-stripper-events
 ###### Left 4 Dead 2 Stripper Events by CyberZoio
 
-US (google translator, sorry! :P)
+>US (google translator, sorry! :P)
 
 >Hello to the entire Left 4 Dead 2 community!
 >
@@ -13,6 +13,7 @@ US (google translator, sorry! :P)
 >
 >Events for campaigns C6 The Passing, C7 The Sacrifice, C12 Blood Harvest, C13 Cold Stream, and C14 Last Stand have not yet been created.
 >I will post them as soon as new content is completed.
+
 
 >If you wish to contribute financially in any amount to my work, please visit:
 >
