@@ -23,11 +23,11 @@
 ### About the events:
 
 - C1 Dead Center:
->c1m1\_hotel-CALL-LEFT-ELEVATOR-CRASH: When attempting to call the left elevator, the elevator will break. (Created by CyberZoio)  
->c1m1\_hotel-CALL-RIGHT-ELEVATOR: Survivors must call and wait for the right elevator to continue. (Edited by Cyberzoio. Original by https://github.com/Attano/Sky)  
->c1m1\_hotel-LOBBY-EXPLOSION+TANK-SPAWN: An explosion will occur in the hotel lobby and a Tank will be activated. (Edited by Cyberzoio. Original by https://github.com/Attano/Sky)  
->c1m1\_hotel-RAIN+SOUNDSCAPE: A rainy weather environment complete with sound and visual effects. (Created by CyberZoio)  
->c1m1\_hotel-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)  
+> - c1m1\_hotel-CALL-LEFT-ELEVATOR-CRASH: When attempting to call the left elevator, the elevator will break. (Created by CyberZoio)  
+> - c1m1\_hotel-CALL-RIGHT-ELEVATOR: Survivors must call and wait for the right elevator to continue. (Edited by Cyberzoio. Original by https://github.com/Attano/Sky)  
+> - c1m1\_hotel-LOBBY-EXPLOSION+TANK-SPAWN: An explosion will occur in the hotel lobby and a Tank will be activated. (Edited by Cyberzoio. Original by https://github.com/Attano/Sky)  
+> - c1m1\_hotel-RAIN+SOUNDSCAPE: A rainy weather environment complete with sound and visual effects. (Created by CyberZoio)  
+> - c1m1\_hotel-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)  
 
 c1m2\_streets-F18-BOMBER: Fighter jets will bomb the bridge. (Edited by CyberZoio. Original by https://github.com/Attano/Sky)
 
