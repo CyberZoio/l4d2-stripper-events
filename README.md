@@ -22,7 +22,7 @@
 ---
 ### About the events:
 
--C1 Dead Center:
+- C1 Dead Center:
 >c1m1\_hotel-CALL-LEFT-ELEVATOR-CRASH: When attempting to call the left elevator, the elevator will break. (Created by CyberZoio)  
 >c1m1\_hotel-CALL-RIGHT-ELEVATOR: Survivors must call and wait for the right elevator to continue. (Edited by Cyberzoio. Original by https://github.com/Attano/Sky)  
 >c1m1\_hotel-LOBBY-EXPLOSION+TANK-SPAWN: An explosion will occur in the hotel lobby and a Tank will be activated. (Edited by Cyberzoio. Original by https://github.com/Attano/Sky)  
