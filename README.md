@@ -1,5 +1,4 @@
-**Left 4 Dead 2 Stripper Events by CyberZoio  
-**  
+**Left 4 Dead 2 Stripper Events by CyberZoio**  
 ---
 ###### (google translator, sorry! :P)
 >Hello to the entire Left 4 Dead 2 community!  
