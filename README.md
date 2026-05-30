@@ -20,7 +20,7 @@ I will post them as soon as new content is completed.
 
 <sup>If you wish to financially support my work with any amount, please visit:</sup>
 
-<sup>[Donate and social media](https://www.streamar.com.br/cyberzoio)</sup>
+<sup>[Donate and Social Media](https://www.streamar.com.br/cyberzoio)</sup>
 
 <sup>For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.\
 For residents outside of Brazil, contributions can be made via PayPal.</sup>
@@ -329,8 +329,7 @@ Postarei assim que houver novos conteúdos finalizados.
 
 <sup>Se deseja apoiar financeiramente com qualquer valor sobre este meu trabalho, acesse:</sup>
 
-[Donate e Redes Sociais](https://www.streamar.com.br/cyberzoio)
-
+<sup>[Donate e Redes Sociais](https://www.streamar.com.br/cyberzoio)</sup>
 
 <sup>Para residentes no Brasil, é possível contribuir via PIX, PicPay e Mercado pago.\
 Para residentes fora do Brasil, é possível contribuir via PayPal.</sup>
