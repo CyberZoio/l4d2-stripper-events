@@ -329,22 +329,19 @@ Postarei assim que houver novos conteúdos finalizados.
 
 <sup>Se deseja apoiar financeiramente com qualquer valor sobre este meu trabalho, acesse:</sup>
 
-https://www.streamar.com.br/cyberzoio
+[Donate e Redes Sociais](https://www.streamar.com.br/cyberzoio)
+
 
 <sup>Para residentes no Brasil, é possível contribuir via PIX, PicPay e Mercado pago.\
 Para residentes fora do Brasil, é possível contribuir via PayPal.</sup>
 
 ---
 
-<sup>Bugs, sugestões e reclamações podem entrar em contato pelo meu canal no Discord:</sup>
-
-https://discord.gg/HnMjXthNC
+<sup>Bugs, sugestões e reclamações podem entrar em contato pelo meu canal no [Discord](https://discord.gg/HnMjXthNC)</sup>
 
 ---
 
-<sup>Acesse o grupo Steam do meu servidor de Left 4 Dead 2:</sup>
-
-https://steamcommunity.com/groups/CyberZoio
+<sup>Acesse o [Grupo Steam](https://steamcommunity.com/groups/CyberZoio) do meu servidor de Left 4 Dead 2:</sup>
 
 ---
 
