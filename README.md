@@ -33,6 +33,11 @@ https://discord.gg/HnMjXthNC
 
 ---
 
+<sup>Access the Steam group for my Left 4 Dead 2 server:</sup>
+https://steamcommunity.com/groups/CyberZoio
+
+---
+
 **About the events:**
 
 - <details><summary>C1 Dead Center</summary>
@@ -337,6 +342,11 @@ Para residentes fora do Brasil, é possível contribuir via PayPal.</sup>
 <sup>Bugs, sugestões e reclamações podem entrar em contato pelo meu canal no Discord:</sup>
 
 https://discord.gg/HnMjXthNC
+
+---
+
+<sup>Acesse o grupo Steam do meu servidor de Left 4 Dead 2:</sup>
+https://steamcommunity.com/groups/CyberZoio
 
 ---
 
