@@ -340,7 +340,7 @@ Para residentes fora do Brasil, é possível contribuir via PayPal.</sup>
 
 ---
 
-<sup>Acesse o [Grupo Steam](https://steamcommunity.com/groups/CyberZoio) do meu servidor de Left 4 Dead 2:</sup>
+<sup>Acesse o [Grupo Steam](https://steamcommunity.com/groups/CyberZoio) do meu servidor de Left 4 Dead 2</sup>
 
 ---
 
