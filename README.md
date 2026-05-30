@@ -22,8 +22,8 @@ I will post them as soon as new content is completed.
 
 https://www.streamar.com.br/cyberzoio
 
-<sup>For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.</sup>\
-<sup>For residents outside of Brazil, contributions can be made via PayPal.</sup>
+<sup>For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.\
+For residents outside of Brazil, contributions can be made via PayPal.</sup>
 
 ---
 
@@ -50,7 +50,7 @@ https://discord.gg/HnMjXthNC
     - c1m2\_streets-F18-BOMBER: Fighter jets will bomb the bridge.
     - c1m2\_streets-SLIDE-DOOR-FOOTBRIDGE: Survivors must open a door to access the walkway.
     - c1m2\_streets-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion will occur in the mall parking lot, and a Tank will be activated.
-    - c1m2\_streets-SLOWMOTION-TANKER-EXPLOSION: Slow-motion effect when the truck explodes in the glue event.
+    - c1m2\_streets-SLOWMOTION-TANKER-EXPLOSION: Slow-motion effect when the truck explodes in the cola event.
     - c1m2\_streets-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes.
 
   - <details><summary>c1m3_mall</summary>
@@ -135,7 +135,7 @@ https://discord.gg/HnMjXthNC
 
   - <details><summary>c4m2_sugarmill_a</summary>
   
-    - c4m2\_sugarmill\_a-SCAVENGER-ELEVATOR: The survivors will have to refuel the generator to power the scaffolding.
+    - c4m2\_sugarmill\_a-SCAVENGER-ELEVATOR: The survivors will have to refuel the generator to power the elevator.
     - c4m2\_sugarmill\_a-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion at the gas station will occur and a Tank will be activated.
     - c4m2\_sugarmill\_a-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes.
 
@@ -305,253 +305,191 @@ https://discord.gg/HnMjXthNC
 
 ---
 
-###### === PT-BR ===
+<sup>PT-BR</sup>
 
-##### Olá a toda a comunidade do Left 4 Dead 2
+Olá a toda a comunidade do Left 4 Dead 2
 
-##### 
+Apresento-lhes aqui a minha maior contribuição para este jogo maravilhoso fortemente sustentado pela comunidade.
 
-##### Apresento-lhes aqui a minha maior contribuição para este jogo maravilhoso fortemente sustentado pela comunidade.
+Uma série de eventos novos de Left 4 Dead 2 para Stripper Source desenvolvidos, editados e reescritos originalmente por mim.\
+Outros eventos disponíveis pela comunidade no qual eu tive acesso e foram inspirados, editados e reescritos por mim, darei os devidos créditos atribuídos aos criadores e suas equipes.
 
-##### 
+Estarei disponibilizado os arquivos dos eventos em arquivos separados por campanha/mapa, e de forma unificada.
 
-##### Uma série de eventos novos de Left 4 Dead 2 para Stripper Source desenvolvidos, editados e reescritos originalmente por mim.
+Eventos para as campanhas C6 The Passing, C7 The Sacrifice, C12 Blood Harvest , C13 Cold Stream, C14 Last Stand ainda não foram criados.\
+Postarei assim que houver novos conteúdos finalizados.
 
-##### \*Outros eventos disponíveis pela comunidade no qual eu tive acesso e foram inspirados, editados e reescritos por mim, darei os devidos créditos atribuídos aos criadores e suas equipes.
+---
 
-##### 
+<sup>Se deseja contribuir financeiramente com qualquer valor sobre este meu trabalho, acesse:</sup>
 
-##### Estarei disponibilizado os arquivos dos eventos em arquivos separados por campanha/mapa, e de forma unificada.
+https://www.streamar.com.br/cyberzoio
 
-##### 
+<sup>Para residentes no Brasil, é possível contribuir via PIX, PicPay e Mercado pago.\
+Para residentes fora do Brasil, é possível contribuir via PayPal.</sup>
 
-##### Eventos para as campanhas C6 The Passing, C7 The Sacrifice, C12 Blood Harvest , C13 Cold Stream, C14 Last Stand ainda não foram criados.
+---
 
-##### Postarei assim que houver novos conteúdos finalizados.
+<sup>Bugs, sugestões e reclamações podem entrar em contato pelo meu canal no Discord:</sup>
 
-###### ===
+https://discord.gg/HnMjXthNC
 
-##### 
+---
 
-###### ===
+**Sobre os eventos:**
 
-###### Se deseja contribuir financeiramente com qualquer valor sobre este meu trabalho, acesse: 
+- <details><summary>C1 Dead Center</summary>
 
-###### 
+  - <details><summary>c1m1_hotel</summary>
+   
+    - c1m1\_hotel-CALL-LEFT-ELEVATOR-CRASH: Ao tentar chamar o elevador esquerdo, o elevador irá quebrar.
+    - c1m1\_hotel-CALL-RIGHT-ELEVATOR: Os sobreviventes deverão chamar e esperar o elevador direito para continuar.
+    - c1m1\_hotel-LOBBY-EXPLOSION+TANK-SPAWN: Uma explosão no lobby do hotel irá acontecer e um Tank será ativado.
+    - c1m1\_hotel-RAIN+SOUNDSCAPE: Um clima de chuva completo com efeitos sonoros e visuais.
+    - c1m1\_hotel-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
 
-###### https://www.streamar.com.br/cyberzoio
+  - <details><summary>c1m2_streets</summary>
+   
+    - c1m2\_streets-F18-BOMBER: Caças irão bombardear a ponte.
+    - c1m2\_streets-SLIDE-DOOR-FOOTBRIDGE: Os sobreviventes deverão abrir uma porta de acesso a passarela.
+    - c1m2\_streets-EXPLODE-GASTANKER+TANK-SPAWN: Uma explosão de um tanque de gás no estacionamento do shopping irá acontecer e um Tank será ativado.
+    - c1m2\_streets-SLOWMOTION-TANKER-EXPLOSION: Efeito de câmera lenta ao explodir o caminhão no evento da cola.
+    - c1m2\_streets-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
 
-###### 
+  - <details><summary>c1m3_mall</summary>
+   
+    - c1m3\_mall-KAPPELS-ALARM: Os sensores da loja ativará o alarme ao passar pela porta.
+    - c1m3\_mall-SAFEROOM-TANK-SPAWN: Um Tank está preso dentro da saferoom final.
+    - c1m3\_mall-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
 
-###### Para residentes no Brasil, é possível contribuir via PIX, PicPay e Mercado pago.
+  - <details><summary>c1m4_atrium</summary>
+   
+    - c1m4\_atrium-TELEPORT-BUG-PLAYERS: Quando o elevador for ativado, os jogadores não poderão mais sair da área do resgate.
+    - c1m4\_atrium-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
 
-###### Para residentes fora do Brasil, é possível contribuir via PayPal.
+</details>
 
-###### ===
+- <details><summary>C2 Dark Carnival</summary>
 
-##### 
+  - <details><summary>c2m1_highway</summary>
+   
+    - c2m1\_highway-HELI-HOTEL+TANK-SPAWN: Sobreviventes escaparam do hotel em um helicóptero, uma explosão irá ocorrer e um Tank será ativado.
+    - c2m1\_highway-C130-BOMBER: Um c130 irá bombardear o estacionamento do parque.
+    - c2m1\_highway-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
 
-##### ===
+  - <details><summary>c2m2_fairgrounds</summary>
+   
+    - c2m2\_fairgrounds-TANK-SPAWN: Uma porta irá quebrar próximo ao brinquedo de tiro-ao-alvo e um Tank será ativado.
+    - c2m2\_fairgrounds-FOLLOW-CAR-SHOW: Os sobreviventes deverão abastecer o carro que transporta um gerador de energia até o carrocel.
+    - c2m2\_fairgrounds-WOOD-BARRICADE: Uma barricada de madeira deve ser destruída para prosseguir.
+    - c2m2\_fairgrounds-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
 
-### Sobre os eventos:
+  - <details><summary>c2m3_coaster</summary>
+   
+    - c2m3\_coaster-COASTER-SCAVENGER: Os sobreviventes deverão abastecer o gerador de energia para ligar a montanha-russa.
+    - c2m3\_coaster-SLIDE-DOOR+TANK-SPAWN: Os sobreviventes deverão abrir uma porta de acesso a sala de máquinas e um Tank será ativado.
+    - c2m3\_coaster-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
 
-##### 
+  - <details><summary>c2m4_barns</summary>
+   
+    - c2m4\_barns-BARN-TANK-SPAWN: Um Tank está preso dentro do celeiro.
+    - c2m4\_barns-SHORTCUT-TO-PLAYERS: Um atalho poderá ser aberto para os players atrasados.
+    - c2m4\_barns-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
 
-##### 
+  - <details><summary>c2m5_concert</summary>
+   
+    - c2m5\_concert-RAIN+SOUNDSCAPE: Um clima de chuva completo com efeitos sonoros e visuais.
+    - c2m5\_concert-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
 
-#### C1 Dead Center:
+ </details>
 
-##### c1m1\_hotel-CALL-LEFT-ELEVATOR-CRASH: Ao tentar chamar o elevador esquerdo, o elevador irá quebrar. (Create by CyberZoio)
+- <details><summary>C3 Swamp Fever</summary>
 
-##### c1m1\_hotel-CALL-RIGHT-ELEVATOR: Os sobreviventes deverão chamar e esperar o elevador direito para continuar. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c1m1\_hotel-LOBBY-EXPLOSION+TANK-SPAWN: Uma explosão no lobby do hotel irá acontecer e um Tank será ativado. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c1m1\_hotel-RAIN+SOUNDSCAPE: Um clima de chuva completo com efeitos sonoros e visuais. (Create by CyberZoio)
-
-##### c1m1\_hotel-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c1m2\_streets-F18-BOMBER: Caças irão bombardear a ponte. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c1m2\_streets-SLIDE-DOOR-FOOTBRIDGE: Os sobreviventes deverão abrir uma porta de acesso a passarela. (Create by CyberZoio)
-
-##### c1m2\_streets-EXPLODE-GASTANKER+TANK-SPAWN: Uma explosão de um tanque de gás no estacionamento do shopping irá acontecer e um Tank será ativado. (Create by CyberZoio)
-
-##### c1m2\_streets-SLOWMOTION-TANKER-EXPLOSION: Efeito de câmera lenta ao explodir o caminhão no evento da cola (Create by CyberZoio)
-
-##### c1m2\_streets-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c1m3\_mall-KAPPELS-ALARM: Os sensores da loja ativará o alarme ao passar pela porta. (Create by CyberZoio)
-
-##### c1m3\_mall-SAFEROOM-TANK-SPAWN: Um Tank está preso dentro da saferoom final. (Create by CyberZoio)
-
-##### c1m3\_mall-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c1m4\_atrium-TELEPORT-BUG-PLAYERS: Quando o elevador for ativado, os jogadores não poderão mais sair da área do resgate. (Create by CyberZoio)
-
-##### c1m4\_atrium-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### 
-
-#### C2 Dark Carnival:
-
-##### c2m1\_highway-HELI-HOTEL+TANK-SPAWN: Sobreviventes escaparam do hotel em um helicóptero, uma explosão irá ocorrer e um Tank será ativado. (Create by CyberZoio)
-
-##### c2m1\_highway-C130-BOMBER: Um c130 irá bombardear o estacionamento do parque. (Create by CyberZoio)
-
-##### c2m1\_highway-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c2m2\_fairgrounds-TANK-SPAWN: Uma porta irá quebrar próximo ao brinquedo de tiro-ao-alvo e um Tank será ativado. (Create by CyberZoio)
-
-##### c2m2\_fairgrounds-FOLLOW-CAR-SHOW: Os sobreviventes deverão abastecer o carro que transporta um gerador de energia até o carrocel. (Create by CyberZoio)
-
-##### c2m2\_fairgrounds-WOOD-BARRICADE: Uma barricada de madeira deve ser destruída para prosseguir. (Create by CyberZoio)
-
-##### c2m2\_fairgrounds-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c2m3\_coaster-COASTER-SCAVENGER: Os sobreviventes deverão abastecer o gerador de energia para ligar a montanha-russa. (Create by CyberZoio)
-
-##### c2m3\_coaster-SLIDE-DOOR+TANK-SPAWN: Os sobreviventes deverão abrir uma porta de acesso a sala de máquinas e um Tank será ativado. (Create by CyberZoio)
-
-##### c2m3\_coaster-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c2m4\_barns-BARN-TANK-SPAWN: Um Tank está preso dentro do celeiro. (Create by CyberZoio)
-
-##### c2m4\_barns-SHORTCUT-TO-PLAYERS: Um atalho poderá ser aberto para os players atrasados. (Create by CyberZoio)
-
-##### c2m4\_barns-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c2m5\_concert-RAIN+SOUNDSCAPE: Um clima de chuva completo com efeitos sonoros e visuais. (Create by CyberZoio)
-
-##### c2m5\_concert-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### 
-
-#### C3 Swamp Fever:
-
-##### c3m1\_plankcountry-SCAVENGER-FERRY: Os sobreviventes deverão abastecer o gerador de energia para ligar a balsa. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c3m1\_plankcountry-TANK-SPAWN: Uma barricada irá quebrar na passarela e um Tank será ativado. (Create by CyberZoio)
-
-##### c3m1\_plankcountry-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c3m2\_swamp-AIRCRAFT-CRASH+TANK-SPAWN: Um pequeno avião irá cair próximo a saferoom final e um Tank será ativado. (Create by CyberZoio)
-
-##### c3m2\_swamp-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c3m3\_shantytown-F18-BOMBER: Caças irão bombardear a vila (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c3m3\_shantytown-TANK-SPAWN: Uma explosão ocorrerá em uma cabana e um Tank será ativado. (Create by CyberZoio)
-
-##### c3m3\_shantytown-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c3m4\_plantation-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### 
-
-#### C4 Hard Rain:
-
-##### c4m1\_milltown\_a-TANK-SPAWN: Um caminhão irá explodir e um Tank será ativado. (Create by CyberZoio)
-
-##### c4m1\_milltown\_a-TRUCK-CRASH: Um caminhão desgovernado irá bater contra um arvore. (Create by CyberZoio)
-
-##### c4m1\_milltown\_a-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c4m2\_sugarmill\_a-SCAVENGER-ELEVATOR: (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c4m2\_sugarmill\_a-EXPLODE-GASTANKER+TANK-SPAWN: Uma explosão de um tanque de gás no posto de gasolina irá acontecer e um Tank será ativado. (Create by CyberZoio)
-
-##### c4m2\_sugarmill\_a-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c4m3\_sugarmill\_b-ELEVATOR-EVENT-PROPS: Cenário relacionado ao evento "c4m2\_sugarmill\_a-SCAVENGER-ELEVATOR". (Create by CyberZoio)
-
-##### c4m3\_sugarmill\_b-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c4m4\_milltown\_b-BOAT-RUN: Um passeio de barco até a saferoom final. (Create by CyberZoio)
-
-##### c4m4\_milltown\_b-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c4m5\_milltown\_escape-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### 
-
-#### C5 The Parish:
-
-##### c5m1\_waterfront-RESTAURANT-ALARM: Ao abrir a porta da restaurante, ativará o alarme. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c5m1\_waterfront-NEW-ROUTE: Um caminho diferente a ser seguido. (Create by CyberZoio)
-
-##### c5m1\_waterfront-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c5m2\_park-C130-BOMBER+TANK-SPAWN: Após derrotar o Tank no parque, um bombardeio irá destruir a barricada (Create by CyberZoio)
-
-##### c5m2\_park-SHORTCUT-TO-PLAYERS: Um atalho poderá ser aberto para os players atrasados. (Create by CyberZoio)
-
-##### c5m2\_park-TOUR-BUS-PASSING: A banda de rock segue a tour lutando contra os zumbis. (Create by CyberZoio)
-
-##### c5m2\_park-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c5m3\_cemetery-METAL-BARRICADE: Uma barricada de metal deve ser destruída para prosseguir. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c5m3\_cemetery-F18-PASSING+TANK-SPAWN: Caças irão bombardear a ponte, ativando um Tank. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c5m3\_cemetery-SLOWMOTION-F18-BRIDGE: Efeito de câmera ao explodir a ponte próximo ao cemitério. (Create by CyberZoio)
-
-##### c5m3\_cemetery-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c5m4\_quarter-SCAVENGER-TRACTOR: Os sobreviventes deverão abastecer o trator para liga-lo. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c5m4\_quarter-F18-PASSING+TANK-SPAWN: um caça destruirá uma barricada e um Tank será ativado (Create by CyberZoio)
-
-##### c5m4\_quarter-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c5m5\_bridge-EXTRA-CHANGES: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
+  - <details><summary>c3m1_plankcountry</summary>
+   
+    - c3m1\_plankcountry-SCAVENGER-FERRY: Os sobreviventes deverão abastecer o gerador de energia para ligar a balsa.
+    - c3m1\_plankcountry-TANK-SPAWN: Uma barricada irá quebrar na passarela e um Tank será ativado.
+    - c3m1\_plankcountry-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c3m2_swamp</summary>
+   
+    - c3m2\_swamp-AIRCRAFT-CRASH+TANK-SPAWN: Um pequeno avião irá cair próximo a saferoom final e um Tank será ativado.
+    - c3m2\_swamp-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c3m3_shantytown</summary>
+   
+    - c3m3\_shantytown-F18-BOMBER: Caças irão bombardear a vila.
+    - c3m3\_shantytown-TANK-SPAWN: Uma explosão ocorrerá em uma cabana e um Tank será ativado.
+    - c3m3\_shantytown-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c3m4_plantation</summary>
+   
+    - c3m4\_plantation-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+ </details>
+
+- <details><summary>C4 Hard Rain</summary>
+
+  - <details><summary>c4m1_milltown_a</summary>
+   
+    - c4m1\_milltown\_a-TANK-SPAWN: Um caminhão irá explodir e um Tank será ativado.
+    - c4m1\_milltown\_a-TRUCK-CRASH: Um caminhão desgovernado irá bater contra um arvore.
+    - c4m1\_milltown\_a-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c4m2_sugarmill_a</summary>
+   
+    - c4m2\_sugarmill\_a-SCAVENGER-ELEVATOR: Os sobreviventes deverão abastecer o gerador de energia para ligar o elevador.
+    - c4m2\_sugarmill\_a-EXPLODE-GASTANKER+TANK-SPAWN: Uma explosão de um tanque de gás no posto de gasolina irá acontecer e um Tank será ativado.
+    - c4m2\_sugarmill\_a-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c4m3_sugarmill_b</summary>
+   
+    - c4m3\_sugarmill\_b-ELEVATOR-EVENT-PROPS: Cenário relacionado ao evento "c4m2\_sugarmill\_a-SCAVENGER-ELEVATOR".
+    - c4m3\_sugarmill\_b-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c4m4_milltown_b</summary>
+   
+    - c4m4\_milltown\_b-BOAT-RUN: Um passeio de barco até a saferoom final.
+    - c4m4\_milltown\_b-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c4m5_milltown_escape</summary>
+    - c4m5\_milltown\_escape-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+ </details>
+
+- <details><summary>C5 The Parish</summary>
+
+  - <details><summary>c5m1_waterfront</summary>
+   
+    - c5m1\_waterfront-RESTAURANT-ALARM: Ao abrir a porta da restaurante, ativará o alarme.
+    - c5m1\_waterfront-NEW-ROUTE: Um caminho diferente a ser seguido.
+    - c5m1\_waterfront-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c5m2_park</summary>
+   
+    - c5m2\_park-C130-BOMBER+TANK-SPAWN: Após derrotar o Tank no parque, um bombardeio irá destruir a barricada.
+    - c5m2\_park-SHORTCUT-TO-PLAYERS: Um atalho poderá ser aberto para os players atrasados.
+    - c5m2\_park-TOUR-BUS-PASSING: A banda de rock segue a tour lutando contra os zumbis.
+    - c5m2\_park-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c5m3_cemetery</summary>
+   
+    - c5m3\_cemetery-METAL-BARRICADE: Uma barricada de metal deve ser destruída para prosseguir.
+    - c5m3\_cemetery-F18-PASSING+TANK-SPAWN: Caças irão bombardear a ponte, ativando um Tank.
+    - c5m3\_cemetery-SLOWMOTION-F18-BRIDGE: Efeito de câmera ao explodir a ponte próximo ao cemitério.
+    - c5m3\_cemetery-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c5m4_quarter</summary>
+   
+    - c5m4\_quarter-SCAVENGER-TRACTOR: Os sobreviventes deverão abastecer o trator para liga-lo.
+    - c5m4\_quarter-F18-PASSING+TANK-SPAWN: um caça destruirá uma barricada e um Tank será ativado.
+    - c5m4\_quarter-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c5m5_bridge</summary>
+   
+    - c5m5\_bridge-EXTRA-CHANGES: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+ </details>
 
 ##### 
 
@@ -691,17 +629,7 @@ c8m1\_apartment-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
 
 ##### c11m5\_runway-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
 
-###### ===
 
-##### 
-
-###### ===
-
-###### <sup>Bugs, sugestões e reclamações podem entrar em contato pelo meu canal no Discord:</sup>
-
-###### https://discord.gg/HnMjXthNC
-
-###### ===
 
 ##### 
 
