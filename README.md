@@ -18,7 +18,7 @@ I will post them as soon as new content is completed.
 
 ---
 
-<sup>If you wish to contribute financially in any amount to my work, please visit:</sup>
+<sup>If you wish to financially support my work with any amount, please visit:</sup>
 
 https://www.streamar.com.br/cyberzoio
 
@@ -223,13 +223,13 @@ https://discord.gg/HnMjXthNC
 
 - <details><summary>C9 Crash Course</summary>
 
-  - <details><summary>c9m2_lots</summary>
+  - <details><summary>c9m1_alleys</summary>
    
     - c9m1\_alleys-TANK-SPAWN: A door will break near the start and a Tank will be activated.
     - c9m1\_alleys-SLOWMOTION-HOWITZER-EXPLOSION: Camera effect when the gate explodes.
     - c9m1\_alleys-EXTRA-CHANGES: Extra ammunition and minor map changes.
 
-  - <details><summary>c10m1_caves</summary>
+  - <details><summary>c9m2_lots</summary>
    
     - c9m2\_lots-EXTRA-CHANGES+LADDERS: Extra ammunition, extra ladders, and minor map changes.
 
@@ -302,7 +302,6 @@ https://discord.gg/HnMjXthNC
 </details>
 
 ---
-
 ---
 
 <sup>PT-BR</sup>
@@ -321,7 +320,7 @@ Postarei assim que houver novos conteúdos finalizados.
 
 ---
 
-<sup>Se deseja contribuir financeiramente com qualquer valor sobre este meu trabalho, acesse:</sup>
+<sup>Se deseja apoiar financeiramente com qualquer valor sobre este meu trabalho, acesse:</sup>
 
 https://www.streamar.com.br/cyberzoio
 
@@ -453,6 +452,7 @@ https://discord.gg/HnMjXthNC
     - c4m4\_milltown\_b-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
 
   - <details><summary>c4m5_milltown_escape</summary>
+   
     - c4m5\_milltown\_escape-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
 
  </details>
@@ -491,147 +491,115 @@ https://discord.gg/HnMjXthNC
 
  </details>
 
-##### 
+- <details><summary>C8 No Mercy</summary>
 
-#### C8 No Mercy:
+  - <details><summary>c8m1_apartment</summary>
+   
+    - c8m1\_apartment-TANK-SPAWN: Uma porta irá quebrar próximo ao galpão e um Tank será ativado.
+    - c8m1\_apartment-NEW-ROUTE: Um caminho diferente a ser seguido.
+    - c8m1\_apartment-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
 
-##### c8m1\_apartment-TANK-SPAWN: Uma porta irá quebrar próximo ao galpão e um Tank será ativado. (Create by CyberZoio)
+  - <details><summary>c8m2_subway</summary>
+   
+    - c8m2\_subway-CAR-CRASH+TANK-SPAWN: Um carro desgovernado irá bater sobre o muro e um Tank será ativado.
+    - c8m2\_subway-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
 
-##### c8m1\_apartment-NEW-ROUTE: Um caminho diferente a ser seguido. (Create by CyberZoio)
+  - <details><summary>c8m3_sewers</summary>
+   
+    - c8m3\_sewers-SCAVENGER-LIFT: Os sobreviventes deverão abastecer o gerador de energia para ligar o andaime.
+    - c8m3\_sewers-SLOWMOTION-GAS-EXPLOSION: Efeito de câmera ao explodir o posto de gasolina.
+    - c8m3\_sewers-THE-PARACHUTIST+TANK-SPAWN: Um Tank saltará do prédio de paraquedas.
+    - c8m3\_sewers-WOOD-BARRICADE: Uma barricada de madeira deve ser destruída para prosseguir.
+    - c8m3\_sewers-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
 
-c8m1\_apartment-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
+  - <details><summary>c8m4_interior</summary>
+   
+    - c8m4\_interior-HELI-PASSING: O helicóptero continua a resgatar sobreviventes no topo do prédio.
+    - c8m4\_interior-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. 
+
+  - <details><summary>c8m5_rooftop</summary>
+   
+    - c8m5\_rooftop-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. 
+
+</details>
+
+- <details><summary>C9 Crash Course</summary>
+
+  - <details><summary>c9m1_alleys</summary>
+   
+    - c9m1\_alleys-TANK-SPAWN: Uma porta irá quebrar próximo ao início e um Tank será ativado.
+    - c9m1\_alleys-SLOWMOTION-HOWITZER-EXPLOSION: Efeito de câmera ao explodir o portão.
+    - c9m1\_alleys-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c9m2_lots</summary>
+   
+    - c9m2\_lots-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+</details>
+
+- <details><summary>C10 Death Tool</summary>
+
+  - <details><summary>c10m1_caves</summary>
+   
+    - c10m1\_caves-TUNNEL-BLOCK: Ative os explosivos e destrua o bloqueio no túnel.
+    - c10m1\_caves-SLIDE-DOOR+TANK-SPAWN: Os sobreviventes deverão abrir uma porta de acesso a área externa e um Tank será ativado.
+    - c10m1\_caves-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c10m2_drainage</summary>
+   
+    - c10m2\_drainage-SCAVENGER-BRIDGE: Os sobreviventes deverão abastecer o gerador de energia para ligar a ponte.
+    - c10m2\_drainage-EXPLODE-GASTANKER+TANK-SPAWN: Uma explosão de um tanque de gás próximo a saferoom final irá acontecer e um Tank será ativado.
+    - c10m2\_drainage-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c10m3_ranchhouse</summary>
+   
+    - c10m3\_ranchhouse-POLICE-CAR-COLA: Ajude os sobreviventes da cidade a escaparem levando alguns suprimentos que estão no carro de polícia.
+    - c10m3\_ranchhouse-CHURCH-GUY+TANK-SPAWN: O cidadão da igreja se transforma em um Tank.
+    - c10m3\_ranchhouse-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c10m4_mainstreet</summary>
+   
+    - c10m4\_mainstreet-CAMPING-SURVIVORS-PROPS: Cenário relacionado ao evento "c10m3\_ranchhouse-POLICE-CAR-COLA".
+    - c10m4\_mainstreet-SCAVENGER-FORKLIFT: Os sobreviventes deverão abastecer a empilhadeira para ligá-la.
+    - c10m4\_mainstreet-TANK-SPAWN: Uma porta irá quebrar no estacionamento e um Tank será ativado.
+    - c10m4\_mainstreet-EXTRAS-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c10m5_houseboat</summary>
+   
+    - c10m5\_houseboat-EXTRAS-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+</details>
+
+- <details><summary>C11 Dead Air</summary>
+
+  - <details><summary>c11m1_greenhouse</summary>
+   
+    - c11m1\_greenhouse-HOTEL-ALARM: Ao abrir a porta da hotel, ativará o alarme.
+    - c11m1\_greenhouse-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c11m2_offices</summary>
+   
+    - c11m2\_offices-TANK-SPAWN: Uma janela irá quebrar no canteiro de obras e um Tank será ativado.
+    - c11m2\_offices-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c11m3_garage</summary>
+   
+    - c11m3\_garage-WOOD-BARRICADE+TANK-SPAWN: Ao explodir a barricada, um Tank será ativado.
+    - c11m3\_garage-NEW-ROUTE: Um caminho diferente a ser seguido.
+    - c11m3\_garage-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c11m4_terminal</summary>
+   
+    - c11m4\_terminal-SCAVENGER-VAN+TANK-SPAWN: Os sobreviventes deverão abastecer a van para ligá-la. Um Tank será ativado.
+    - c11m4\_terminal-SLIDE-DOOR: Os sobreviventes deverão esperar a porta abrir para prosseguir.
+    - c11m4\_terminal-NEW-ROUTE: Um caminho diferente a ser seguido.
+    - c11m4\_terminal-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
+
+  - <details><summary>c11m5_runway</summary>
+   
+    - c11m5\_runway-SLOWMOTION-PLANE-CRASH: Efeito de câmera ao cair o avião.
+    - c11m5\_runway-RAIN+SOUNDSCAPES: Um clima de chuva completo com efeitos sonoros e visuais.
+    - c11m5\_runway-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
 
 ---
-
-##### c8m2\_subway-CAR-CRASH+TANK-SPAWN: Um carro desgovernado irá bater sobre o muro e um Tank será ativado. (Create by CyberZoio)
-
-##### c8m2\_subway-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c8m3\_sewers-SCAVENGER-LIFT: Os sobreviventes deverão abastecer o gerador de energia para ligar o andaime. (Create by CyberZoio)
-
-##### c8m3\_sewers-SLOWMOTION-GAS-EXPLOSION: Efeito de câmera ao explodir o posto de gasolina. (Create by CyberZoio)
-
-##### c8m3\_sewers-THE-PARACHUTIST+TANK-SPAWN: Um Tank saltará do prédio de paraquedas. (Create by CyberZoio)
-
-##### c8m3\_sewers-WOOD-BARRICADE: Uma barricada de madeira deve ser destruída para prosseguir. (Create by CyberZoio)
-
-##### c8m3\_sewers-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c8m4\_interior-HELI-PASSING: O helicóptero continua a resgatar sobreviventes no topo do prédio. (Create by CyberZoio)
-
-##### c8m4\_interior-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c8m5\_rooftop-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### 
-
-#### C9 Crash Course:
-
-##### c9m1\_alleys-TANK-SPAWN: Uma porta irá quebrar próximo ao início e um Tank será ativado. (Create by CyberZoio)
-
-##### c9m1\_alleys-SLOWMOTION-HOWITZER-EXPLOSION: Efeito de câmera ao explodir o portão. (Create by CyberZoio)
-
-##### c9m1\_alleys-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c9m2\_lots-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### 
-
-#### C10 Death Tool:
-
-##### c10m1\_caves-TUNNEL-BLOCK: Ative os explosivos e destrua o bloqueio no túnel. (Edit by Cyberzoio. Original by https://forums.alliedmods.net/showthread.php?p=2767455)
-
-##### c10m1\_caves-SLIDE-DOOR+TANK-SPAWN: Os sobreviventes deverão abrir uma porta de acesso a área externa e um Tank será ativado. (Create by CyberZoio)
-
-##### c10m1\_caves-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c10m2\_drainage-SCAVENGER-BRIDGE: Os sobreviventes deverão abastecer o gerador de energia para ligar a ponte. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c10m2\_drainage-EXPLODE-GASTANKER+TANK-SPAWN: Uma explosão de um tanque de gás próximo a saferoom final irá acontecer e um Tank será ativado. (Create by CyberZoio)
-
-##### c10m2\_drainage-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c10m3\_ranchhouse-POLICE-CAR-COLA: Ajude os sobreviventes da cidade a escaparem levando alguns suprimentos que estão no carro de polícia. (Create by CyberZoio)
-
-##### c10m3\_ranchhouse-CHURCH-GUY+TANK-SPAWN: O cidadão da igreja se transforma em um Tank. (Create by CyberZoio)
-
-##### c10m3\_ranchhouse-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c10m4\_mainstreet-CAMPING-SURVIVORS-PROPS: Cenário relacionado ao evento "c10m3\_ranchhouse-POLICE-CAR-COLA". (Create by CyberZoio)
-
-##### c10m4\_mainstreet-SCAVENGER-FORKLIFT: Os sobreviventes deverão abastecer a empilhadeira para ligá-la. (Create by CyberZoio)
-
-##### c10m4\_mainstreet-TANK-SPAWN: Uma porta irá quebrar no estacionamento e um Tank será ativado. (Create by CyberZoio)
-
-##### c10m4\_mainstreet-EXTRAS-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c10m5\_houseboat-EXTRAS-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### 
-
-#### C11 Dead Air:
-
-##### c11m1\_greenhouse-HOTEL-ALARM: Ao abrir a porta da hotel, ativará o alarme. (Create by CyberZoio)
-
-##### c11m1\_greenhouse-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c11m2\_offices-TANK-SPAWN: Uma janela irá quebrar no canteiro de obras e um Tank será ativado. (Create by CyberZoio)
-
-##### c11m2\_offices-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c11m3\_garage-WOOD-BARRICADE+TANK-SPAWN: Ao explodir a barricada, um Tank será ativado. (Create by CyberZoio)
-
-##### c11m3\_garage-NEW-ROUTE: Um caminho diferente a ser seguido. (Create by CyberZoio)
-
-##### c11m3\_garage-EXTRA-CHANGES+LADDERS: Munições, escadas extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c11m4\_terminal-SCAVENGER-VAN+TANK-SPAWN: Os sobreviventes deverão abastecer a van para ligá-la. Um Tank será ativado. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c11m4\_terminal-SLIDE-DOOR: Os sobreviventes deverão esperar a porta abrir para prosseguir. (Create by CyberZoio)
-
-##### c11m4\_terminal-NEW-ROUTE: Um caminho diferente a ser seguido. (Create by CyberZoio)
-
-##### c11m4\_terminal-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-##### 
-
-##### c11m5\_runway-SLOWMOTION-PLANE-CRASH: Efeito de câmera ao cair o avião. (Create by CyberZoio)
-
-##### c11m5\_runway-RAIN+SOUNDSCAPES: Um clima de chuva completo com efeitos sonoros e visuais. (Create by CyberZoio)
-
-##### c11m5\_runway-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa. (Create by CyberZoio)
-
-
-
-##### 
-
-###### === FIM ===
-
+---
