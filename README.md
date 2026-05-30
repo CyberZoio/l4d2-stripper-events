@@ -29,29 +29,18 @@
 > - c1m1\_hotel-RAIN+SOUNDSCAPE: A rainy weather environment complete with sound and visual effects. (Created by CyberZoio)  
 > - c1m1\_hotel-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)  
 
-c1m2\_streets-F18-BOMBER: Fighter jets will bomb the bridge. (Edited by CyberZoio. Original by https://github.com/Attano/Sky)
+> - c1m2\_streets-F18-BOMBER: Fighter jets will bomb the bridge. (Edited by CyberZoio. Original by https://github.com/Attano/Sky)  
+> - c1m2\_streets-SLIDE-DOOR-FOOTBRIDGE: Survivors must open a door to access the walkway. (Created by CyberZoio)  
+> - c1m2\_streets-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion will occur in the mall parking lot, and a Tank will be activated. (Created by CyberZoio) 
+> - c1m2\_streets-SLOWMOTION-TANKER-EXPLOSION: Slow-motion effect when the truck explodes in the glue event. (Created by CyberZoio)  
+> - c1m2\_streets-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes. (Created by CyberZoio)  
 
-##### c1m2\_streets-SLIDE-DOOR-FOOTBRIDGE: Survivors must open a door to access the walkway. (Created by CyberZoio)
+> - c1m3\_mall-KAPPELS-ALARM: The store's sensors will activate the alarm when passing through the door. (Created by CyberZoio)  
+> - c1m3\_mall-SAFEROOM-TANK-SPAWN: A Tank is trapped inside the final saferoom. (Created by CyberZoio)  
+> - c1m3\_mall-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)  
 
-##### c1m2\_streets-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion will occur in the mall parking lot, and a Tank will be activated. (Created by CyberZoio)
-
-##### c1m2\_streets-SLOWMOTION-TANKER-EXPLOSION: Slow-motion effect when the truck explodes in the glue event. (Created by CyberZoio)
-
-##### c1m2\_streets-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c1m3\_mall-KAPPELS-ALARM: The store's sensors will activate the alarm when passing through the door. (Created by CyberZoio)
-
-##### c1m3\_mall-SAFEROOM-TANK-SPAWN: A Tank is trapped inside the final saferoom. (Created by CyberZoio)
-
-##### c1m3\_mall-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c1m4\_atrium-TELEPORT-BUG-PLAYERS: When the elevator is activated, players will no longer be able to leave the rescue area. (Created by CyberZoio)
-
-##### c1m4\_atrium-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)
+> - c1m4\_atrium-TELEPORT-BUG-PLAYERS: When the elevator is activated, players will no longer be able to leave the rescue area. (Created by CyberZoio)  
+> - c1m4\_atrium-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)  
 
 ##### 
 
