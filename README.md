@@ -14,6 +14,7 @@
 >Events for campaigns C6 The Passing, C7 The Sacrifice, C12 Blood Harvest, C13 Cold Stream, and C14 Last Stand have not yet been created.
 >I will post them as soon as new content is completed.
 
+---
 
 >If you wish to contribute financially in any amount to my work, please visit:
 >
@@ -23,10 +24,6 @@
 >For residents outside of Brazil, contributions can be made via PayPal.
 
 ### About the events:
-
-##### 
-
-##### 
 
 #### C1 Dead Center:
 
