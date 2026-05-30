@@ -1,8 +1,8 @@
 ### l4d2-stripper-events
 ###### Left 4 Dead 2 Stripper Events by CyberZoio
 
->US (google translator, sorry! :P)
 
+###### (google translator, sorry! :P)
 >Hello to the entire Left 4 Dead 2 community!
 >
 >Here I present my greatest contribution to this wonderful game, strongly supported by the community.
