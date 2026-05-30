@@ -27,15 +27,11 @@ For residents outside of Brazil, contributions can be made via PayPal.</sup>
 
 ---
 
-<sup>For bugs, suggestions, and complaints, please contact me through my Discord channel:</sup>
-
-https://discord.gg/HnMjXthNC
+<sup>For bugs, suggestions, and complaints, please contact me through my [Discord](https://discord.gg/HnMjXthNC) channel.</sup>
 
 ---
 
-<sup>Access the Steam group for my Left 4 Dead 2 server:</sup>
-
-https://steamcommunity.com/groups/CyberZoio
+<sup>Access the [Steam Group](https://steamcommunity.com/groups/CyberZoio) for my Left 4 Dead 2 server.</sup>
 
 ---
 
