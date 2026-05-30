@@ -2,7 +2,7 @@
 
 ---
 
-<sup>US(google translator, sorry! :P)</sup>
+<sup>US (google translator, sorry! :P)</sup>
 
 Hello to the entire Left 4 Dead 2 community!
 
