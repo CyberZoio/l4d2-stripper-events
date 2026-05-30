@@ -13,8 +13,7 @@ Other events available from the community, which I accessed and were inspired by
 
 I will be making the event files available in separate files for each campaign/map, and in a unified format.
 
-Events for campaigns C6 The Passing, C7 The Sacrifice, C12 Blood Harvest, C13 Cold Stream, and C14 Last Stand have not yet been created.\
-I will post them as soon as new content is completed.
+Events for campaigns C6 The Passing, C7 The Sacrifice, C12 Blood Harvest, C13 Cold Stream, and C14 Last Stand have not yet been created. I will post them as soon as new content is completed.
 
 ---
 
