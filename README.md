@@ -1,101 +1,106 @@
-**Left 4 Dead 2 Stripper Events by CyberZoio**  
+**Left 4 Dead 2 Stripper Events by CyberZoio**
+
 ---
-###### (google translator, sorry! :P)
->Hello to the entire Left 4 Dead 2 community!  
->
->Here I present my greatest contribution to this wonderful game, strongly supported by the community.
-> 
->A series of new Left 4 Dead 2 events for Stripper Source, developed, edited, and rewritten by me.  
->Other events available from the community, which I accessed and were inspired by, edited, and rewritten by me, will receive proper credit from the creators and their teams.  
->
->I will be making the event files available in separate files for each campaign/map, and in a unified format.  
->
->Events for campaigns C6 The Passing, C7 The Sacrifice, C12 Blood Harvest, C13 Cold Stream, and C14 Last Stand have not yet been created. I will post them as soon as new content is completed.  
+
+<sup>(google translator, sorry! :P)</sup>
+
+Hello to the entire Left 4 Dead 2 community!
+
+Here I present my greatest contribution to this wonderful game, strongly supported by the community.
+ 
+A series of new Left 4 Dead 2 events for Stripper Source, developed, edited, and rewritten by me.\
+Other events available from the community, which I accessed and were inspired by, edited, and rewritten by me, will receive proper credit from the creators and their teams.
+
+I will be making the event files available in separate files for each campaign/map, and in a unified format.
+
+Events for campaigns C6 The Passing, C7 The Sacrifice, C12 Blood Harvest, C13 Cold Stream, and C14 Last Stand have not yet been created.\
+I will post them as soon as new content is completed.
+
 ---
->If you wish to contribute financially in any amount to my work, please visit:  
->
->https://www.streamar.com.br/cyberzoio  
->
->For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.  
->For residents outside of Brazil, contributions can be made via PayPal.  
+
+<sup>If you wish to contribute financially in any amount to my work, please visit:</sup>
+
+https://www.streamar.com.br/cyberzoio
+
+<sup>For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.</sup>\
+<sup>For residents outside of Brazil, contributions can be made via PayPal.</sup>
+
 ---
+
 **About the events:**
 
-- C1 Dead Center:
-  >c1m1\_hotel-CALL-LEFT-ELEVATOR-CRASH: When attempting to call the left elevator, the elevator will break. (Created by CyberZoio)  
-  >c1m1\_hotel-CALL-RIGHT-ELEVATOR: Survivors must call and wait for the right elevator to continue. (Edited by Cyberzoio. Original by https://github.com/Attano/Sky)  
-  >c1m1\_hotel-LOBBY-EXPLOSION+TANK-SPAWN: An explosion will occur in the hotel lobby and a Tank will be activated. (Edited by Cyberzoio. Original by https://github.com/Attano/Sky)  
-  >c1m1\_hotel-RAIN+SOUNDSCAPE: A rainy weather environment complete with sound and visual effects. (Created by CyberZoio)  
-  >c1m1\_hotel-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)  
+- <details><summary>C1 Dead Center</summary>
+  
+  - <details><summary>c1m1_hotel</summary>
+    
+    - c1m1\_hotel-CALL-LEFT-ELEVATOR-CRASH: When attempting to call the left elevator, the elevator will break.
+    - c1m1\_hotel-CALL-RIGHT-ELEVATOR: Survivors must call and wait for the right elevator to continue.
+    - c1m1\_hotel-LOBBY-EXPLOSION+TANK-SPAWN: An explosion will occur in the hotel lobby and a Tank will be activated.
+    - c1m1\_hotel-RAIN+SOUNDSCAPE: A rainy weather environment complete with sound and visual effects.
+    - c1m1\_hotel-EXTRA-CHANGES: Extra ammunition and minor map changes.
 
-> - c1m2\_streets-F18-BOMBER: Fighter jets will bomb the bridge. (Edited by CyberZoio. Original by https://github.com/Attano/Sky)  
-> - c1m2\_streets-SLIDE-DOOR-FOOTBRIDGE: Survivors must open a door to access the walkway. (Created by CyberZoio)  
-> - c1m2\_streets-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion will occur in the mall parking lot, and a Tank will be activated. (Created by CyberZoio) 
-> - c1m2\_streets-SLOWMOTION-TANKER-EXPLOSION: Slow-motion effect when the truck explodes in the glue event. (Created by CyberZoio)  
-> - c1m2\_streets-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes. (Created by CyberZoio)  
+  - <details><summary>c1m2_streets</summary>
+    
+    - c1m2\_streets-F18-BOMBER: Fighter jets will bomb the bridge.
+    - c1m2\_streets-SLIDE-DOOR-FOOTBRIDGE: Survivors must open a door to access the walkway.
+    - c1m2\_streets-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion will occur in the mall parking lot, and a Tank will be activated.
+    - c1m2\_streets-SLOWMOTION-TANKER-EXPLOSION: Slow-motion effect when the truck explodes in the glue event.
+    - c1m2\_streets-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes.
 
-> - c1m3\_mall-KAPPELS-ALARM: The store's sensors will activate the alarm when passing through the door. (Created by CyberZoio)  
-> - c1m3\_mall-SAFEROOM-TANK-SPAWN: A Tank is trapped inside the final saferoom. (Created by CyberZoio)  
-> - c1m3\_mall-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)  
+  - <details><summary>c1m3_mall</summary>
+    
+    - c1m3\_mall-KAPPELS-ALARM: The store's sensors will activate the alarm when passing through the door.
+    - c1m3\_mall-SAFEROOM-TANK-SPAWN: A Tank is trapped inside the final saferoom.
+    - c1m3\_mall-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes.
+    
+  - <details><summary>c1m4_atrium</summary>
+    
+    - c1m4\_atrium-TELEPORT-BUG-PLAYERS: When the elevator is activated, players will no longer be able to leave the rescue area.
+    - c1m4\_atrium-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes.
 
-> - c1m4\_atrium-TELEPORT-BUG-PLAYERS: When the elevator is activated, players will no longer be able to leave the rescue area. (Created by CyberZoio)  
-> - c1m4\_atrium-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)  
+</details>
 
-##### 
+- <details><summary>C2 Dark Carnival</summary>
 
-##### 
+  - <details><summary>c2m1_highway</summary>
+    
+    - c2m1\_highway-HELI-HOTEL+TANK-SPAWN: Survivors escaped the hotel in a helicopter, an explosion will occur and a Tank will be activated.
+    - c2m1\_highway-C130-BOMBER: A C130 will bomb the park's parking lot.
+    - c2m1\_highway-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders and minor map changes.
 
-#### C2 Dark Carnival:
+  - <details><summary>c2m2_fairgrounds</summary>
+    
+    - c2m2\_fairgrounds-TANK-SPAWN: A door will break near the shooting gallery and a Tank will be activated.
+    - c2m2\_fairgrounds-FOLLOW-CAR-SHOW: Survivors must refuel the car carrying a power generator to the carousel.
+    - c2m2\_fairgrounds-WOOD-BARRICADE: A wooden barricade must be destroyed to proceed.
+    - c2m2\_fairgrounds-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes. (Created by CyberZoio)
 
-##### c2m1\_highway-HELI-HOTEL+TANK-SPAWN: Survivors escaped the hotel in a helicopter, an explosion will occur and a Tank will be activated. (Create by CyberZoio)
+  - <details><summary>c2m3_coaster</summary>
+    
+    - c2m3\_coaster-COASTER-SCAVENGER: Survivors must refuel the power generator to turn on the roller coaster.
+    - c2m3\_coaster-SLIDE-DOOR+TANK-SPAWN: Survivors must open a door to the engine room, and a Tank will be activated.
+    - c2m3\_coaster-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes.
 
-##### c2m1\_highway-C130-BOMBER: A C130 will bomb the park's parking lot. (Create by CyberZoio)
+  - <details><summary>c2m4_barns</summary>
+    
+    - c2m4\_barns-BARN-TANK-SPAWN: A tank is trapped inside the barn.
+    - c2m4\_barns-SHORTCUT-TO-PLAYERS: A shortcut can be opened for players who are lagging behind.
+    - c2m4\_barns-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes.
 
-##### c2m1\_highway-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders and minor map changes. (Create by CyberZoio)
+  - <details><summary>c2m5_concert</summary>
+    
+    - c2m5\_concert-RAIN+SOUNDSCAPE: A rainy weather event complete with sound and visual effects.
+    - c2m5\_concert-EXTRA-CHANGES: Extra ammunition and minor map changes.
 
-##### 
+</details>
 
-##### c2m2\_fairgrounds-TANK-SPAWN: A door will break near the shooting gallery and a Tank will be activated. (Create by CyberZoio)
-
-##### c2m2\_fairgrounds-FOLLOW-CAR-SHOW: Survivors must refuel the car carrying a power generator to the carousel. (Created by CyberZoio)
-
-##### c2m2\_fairgrounds-WOOD-BARRICADE: A wooden barricade must be destroyed to proceed. (Created by CyberZoio)
-
-##### c2m2\_fairgrounds-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c2m3\_coaster-COASTER-SCAVENGER: Survivors must refuel the power generator to turn on the roller coaster. (Created by CyberZoio)
-
-##### c2m3\_coaster-SLIDE-DOOR+TANK-SPAWN: Survivors must open a door to the engine room, and a Tank will be activated. (Created by CyberZoio)
-
-##### c2m3\_coaster-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c2m4\_barns-BARN-TANK-SPAWN: A tank is trapped inside the barn. (Created by CyberZoio)
-
-##### c2m4\_barns-SHORTCUT-TO-PLAYERS: A shortcut can be opened for players who are lagging behind. (Created by CyberZoio)
-
-##### c2m4\_barns-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c2m5\_concert-RAIN+SOUNDSCAPE: A rainy weather event complete with sound and visual effects. (Created by CyberZoio)
-
-##### c2m5\_concert-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### 
-
-#### C3 Swamp Fever:
-
-##### c3m1\_plankcountry-SCAVENGER-FERRY: Survivors must refuel the power generator to start the ferry. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c3m1\_plankcountry-TANK-SPAWN: A barricade will break on the walkway and a Tank will be activated. (Create by CyberZoio)
-
-##### c3m1\_plankcountry-EXTRA-CHANGES: Extra ammunition and minor map changes. (Create by CyberZoio)
+- <details><summary>C3 Swamp Fever</summary>
+  
+  - <details><summary>c3m1_plankcountry</summary>
+    
+    - c3m1\_plankcountry-SCAVENGER-FERRY: Survivors must refuel the power generator to start the ferry. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
+    - c3m1\_plankcountry-TANK-SPAWN: A barricade will break on the walkway and a Tank will be activated. (Create by CyberZoio)
+    - c3m1\_plankcountry-EXTRA-CHANGES: Extra ammunition and minor map changes. (Create by CyberZoio)
 
 ##### 
 
