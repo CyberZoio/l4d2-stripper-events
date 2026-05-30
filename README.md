@@ -1,10 +1,10 @@
-### l4d2-stripper-events
-
+# l4d2-stripper-events
 ###### Left 4 Dead 2 Stripper Events by CyberZoio
 
 ##### 
 
-<details><summary>US (google translator, sorry! :P)</summary>
+US (google translator, sorry! :P)
+<details><summary>
 
 ##### Hello to the entire Left 4 Dead 2 community!
 
