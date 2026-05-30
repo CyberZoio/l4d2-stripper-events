@@ -20,7 +20,7 @@ I will post them as soon as new content is completed.
 
 <sup>If you wish to financially support my work with any amount, please visit:</sup>
 
-https://www.streamar.com.br/cyberzoio
+[Donate and social media](https://www.streamar.com.br/cyberzoio)
 
 <sup>For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.\
 For residents outside of Brazil, contributions can be made via PayPal.</sup>
