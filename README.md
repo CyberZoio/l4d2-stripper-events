@@ -302,6 +302,11 @@ https://discord.gg/HnMjXthNC
 </details>
 
 ---
+
+This is my gift to the entire Left 4 Dead 2 community. Thank you!!!
+
+---
+
 ---
 
 <sup>PT-BR</sup>
@@ -601,5 +606,10 @@ https://discord.gg/HnMjXthNC
     - c11m5\_runway-RAIN+SOUNDSCAPES: Um clima de chuva completo com efeitos sonoros e visuais.
     - c11m5\_runway-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
 
+</details>
+
 ---
+
+Este é o meu presente para toda comunidade de Left 4 Dead 2. Obrigado!!!
+
 ---
