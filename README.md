@@ -18,7 +18,7 @@ I will post them as soon as new content is completed.
 
 ---
 
-<sup>If you wish to financially support my work with any amount, please visit:</sup>
+<sup>If you wish to financially support me with any amount for this work, please visit:</sup>
 
 <sup>[Donate and Social Media](https://www.streamar.com.br/cyberzoio)</sup>
 
@@ -327,7 +327,7 @@ Postarei assim que houver novos conteúdos finalizados.
 
 ---
 
-<sup>Se deseja apoiar financeiramente com qualquer valor sobre este meu trabalho, acesse:</sup>
+<sup>Se deseja me apoiar financeiramente com qualquer valor sobre este trabalho, acesse:</sup>
 
 <sup>[Donate e Redes Sociais](https://www.streamar.com.br/cyberzoio)</sup>
 
