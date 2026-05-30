@@ -2,23 +2,23 @@
 ###### Left 4 Dead 2 Stripper Events by CyberZoio
 ---
 ###### (google translator, sorry! :P)
->Hello to the entire Left 4 Dead 2 community!
+>Hello to the entire Left 4 Dead 2 community!  
 >
->Here I present my greatest contribution to this wonderful game, strongly supported by the community.
->A series of new Left 4 Dead 2 events for Stripper Source, developed, edited, and rewritten by me.
->Other events available from the community, which I accessed and were inspired by, edited, and rewritten by me, will receive proper credit from the creators and their teams.
+>Here I present my greatest contribution to this wonderful game, strongly supported by the community.  
+>A series of new Left 4 Dead 2 events for Stripper Source, developed, edited, and rewritten by me.  
+>Other events available from the community, which I accessed and were inspired by, edited, and rewritten by me, will receive proper credit from the creators and their teams.  
 >
->I will be making the event files available in separate files for each campaign/map, and in a unified format.
+>I will be making the event files available in separate files for each campaign/map, and in a unified format.  
 >
->Events for campaigns C6 The Passing, C7 The Sacrifice, C12 Blood Harvest, C13 Cold Stream, and C14 Last Stand have not yet been created.
->I will post them as soon as new content is completed.
+>Events for campaigns C6 The Passing, C7 The Sacrifice, C12 Blood Harvest, C13 Cold Stream, and C14 Last Stand have not yet been created.  
+>I will post them as soon as new content is completed.  
 ---
->If you wish to contribute financially in any amount to my work, please visit:
+>If you wish to contribute financially in any amount to my work, please visit:  
 >
->https://www.streamar.com.br/cyberzoio
+>https://www.streamar.com.br/cyberzoio  
 >
 >For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.  
->For residents outside of Brazil, contributions can be made via PayPal.
+>For residents outside of Brazil, contributions can be made via PayPal.  
 ---
 ### About the events:
 
