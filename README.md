@@ -4,8 +4,7 @@
 
 ##### 
 
-###### === US (google translator, sorry! :P) === 
-
+<details><summary>US (google translator, sorry! :P)</summary>
 ##### Hello to the entire Left 4 Dead 2 community!
 
 ##### 
@@ -401,7 +400,7 @@
 ###### ===
 
 ##### 
-
+<details>
 ###### === END ===
 
 ##### 
