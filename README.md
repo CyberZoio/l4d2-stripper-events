@@ -2,7 +2,7 @@
 
 ---
 
-<sup>(google translator, sorry! :P)</sup>
+<sup>US(google translator, sorry! :P)</sup>
 
 Hello to the entire Left 4 Dead 2 community!
 
@@ -24,6 +24,12 @@ https://www.streamar.com.br/cyberzoio
 
 <sup>For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.</sup>\
 <sup>For residents outside of Brazil, contributions can be made via PayPal.</sup>
+
+---
+
+<sup>For bugs, suggestions, and complaints, please contact me through my Discord channel:</sup>
+
+https://discord.gg/HnMjXthNC
 
 ---
 
@@ -239,95 +245,65 @@ https://www.streamar.com.br/cyberzoio
 
   - <details><summary>c10m2_drainage</summary>
 
-##### c10m2\_drainage-SCAVENGER-BRIDGE: Survivors must refuel the power generator to power the bridge.
+    - c10m2\_drainage-SCAVENGER-BRIDGE: Survivors must refuel the power generator to power the bridge.
+    - c10m2\_drainage-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion near the final saferoom will occur, and a Tank will be activated.
+    - c10m2\_drainage-EXTRA-CHANGES: Extra ammunition and minor map changes.
 
-##### c10m2\_drainage-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion near the final saferoom will occur, and a Tank will be activated.
+  - <details><summary>c10m3_ranchhouse</summary>
+  
+    - c10m3\_ranchhouse-POLICE-CAR-COLA: Help the city survivors escape by taking some supplies from the police car.
+    - c10m3\_ranchhouse-CHURCH-GUY+TANK-SPAWN: The church citizen transforms into a Tank.
+    - c10m3\_ranchhouse-EXTRA-CHANGES: Extra ammunition and minor map changes.
 
-##### c10m2\_drainage-EXTRA-CHANGES: Extra ammunition and minor map changes.
+  - <details><summary>c10m4_mainstreet</summary>
+   
+    - c10m4\_mainstreet-CAMPING-SURVIVORS-PROPS: Scenario related to the event "c10m3\_ranchhouse-POLICE-CAR-COLA".
+    - c10m4\_mainstreet-SCAVENGER-FORKLIFT: Survivors must refuel the forklift to activate it.
+    - c10m4\_mainstreet-TANK-SPAWN: A door will break in the parking lot and a Tank will be activated.
+    - c10m4\_mainstreet-EXTRAS-CHANGES: Extra ammunition and minor map changes.
 
-##### 
+  - <details><summary>c10m5_houseboat</summary>
+   
+    - c10m5\_houseboat-EXTRAS-CHANGES: Extra ammunition and minor map changes.
 
-##### c10m3\_ranchhouse-POLICE-CAR-COLA: Help the city survivors escape by taking some supplies from the police car.
+</details>
 
-##### c10m3\_ranchhouse-CHURCH-GUY+TANK-SPAWN: The church citizen transforms into a Tank.
+- <details><summary>C11 Dead Air</summary>
 
-##### c10m3\_ranchhouse-EXTRA-CHANGES: Extra ammunition and minor map changes.
+  - <details><summary>c11m1_greenhouse</summary>
+   
+    - c11m1\_greenhouse-HOTEL-ALARM: Opening the hotel door will activate the alarm.
+    - c11m1\_greenhouse-EXTRA-CHANGES: Extra ammunition and minor map changes.
 
-##### 
+  - <details><summary>c11m2_offices</summary>
+   
+    - c11m2\_offices-TANK-SPAWN: A window will break at the construction site and a Tank will be activated.
+    - c11m2\_offices-EXTRA-CHANGES: Extra ammunition and minor map changes.
 
-##### c10m4\_mainstreet-CAMPING-SURVIVORS-PROPS: Scenario related to the event "c10m3\_ranchhouse-POLICE-CAR-COLA".
+  - <details><summary>c11m3_garage</summary>
+   
+    - c11m3\_garage-WOOD-BARRICADE+TANK-SPAWN: Exploding the barricade will activate a Tank.
+    - c11m3\_garage-NEW-ROUTE: A different route to follow.
+    - c11m3\_garage-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes.
 
-##### c10m4\_mainstreet-SCAVENGER-FORKLIFT: Survivors must refuel the forklift to activate it.
+  - <details><summary>c11m4_terminal</summary>
+   
+    - 11m4\_terminal-SCAVENGER-VAN+TANK-SPAWN: Survivors must refuel the van to start it. A Tank will be activated.
+    - c11m4\_terminal-SLIDE-DOOR: Survivors must wait for the door to open to proceed.
+    - c11m4\_terminal-NEW-ROUTE: A different route to follow.
+    - c11m4\_terminal-EXTRA-CHANGES: Extra ammunition and minor map changes.
 
-##### c10m4\_mainstreet-TANK-SPAWN: A door will break in the parking lot and a Tank will be activated.
+  - <details><summary>c11m5_runway</summary>
+   
+    - c11m5\_runway-SLOWMOTION-PLANE-CRASH: Camera effect when the plane crashes.
+    - c11m5\_runway-RAIN+SOUNDSCAPES: A complete rainy weather environment with sound and visual effects.
+    - c11m5\_runway-EXTRA-CHANGES: Extra ammunition and minor map changes.
+  
+</details>
 
-##### c10m4\_mainstreet-EXTRAS-CHANGES: Extra ammunition and minor map changes.
+---
 
-##### 
-
-##### c10m5\_houseboat-EXTRAS-CHANGES: Extra ammunition and minor map changes.
-
-##### 
-
-##### 
-
-#### C11 Dead Air:
-
-##### c11m1\_greenhouse-HOTEL-ALARM: Opening the hotel door will activate the alarm. (Create by CyberZoio)
-
-##### c11m1\_greenhouse-EXTRA-CHANGES: Extra ammunition and minor map changes. (Create by CyberZoio)
-
-##### 
-
-##### c11m2\_offices-TANK-SPAWN: A window will break at the construction site and a Tank will be activated. (Create by CyberZoio)
-
-##### c11m2\_offices-EXTRA-CHANGES: Extra ammunition and minor map changes. (Create by CyberZoio)
-
-##### 
-
-##### c11m3\_garage-WOOD-BARRICADE+TANK-SPAWN: Exploding the barricade will activate a Tank. (Create by CyberZoio)
-
-##### c11m3\_garage-NEW-ROUTE: A different route to follow. (Created by CyberZoio)
-
-##### c11m3\_garage-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c11m4\_terminal-SCAVENGER-VAN+TANK-SPAWN: Survivors must refuel the van to start it. A Tank will be activated. (Edited by CyberZoio. Original by https://github.com/Attano/Sky)
-
-##### c11m4\_terminal-SLIDE-DOOR: Survivors must wait for the door to open to proceed. (Created by CyberZoio)
-
-##### c11m4\_terminal-NEW-ROUTE: A different route to follow. (Created by CyberZoio)
-
-##### c11m4\_terminal-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c11m5\_runway-SLOWMOTION-PLANE-CRASH: Camera effect when the plane crashes. (Created by CyberZoio)
-
-##### c11m5\_runway-RAIN+SOUNDSCAPES: A complete rainy weather environment with sound and visual effects. (Created by CyberZoio)
-
-##### c11m5\_runway-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
-
-###### ===
-
-##### 
-
-###### ===
-
-###### For bugs, suggestions, and complaints, please contact me through my Discord channel:
-
-###### https://discord.gg/HnMjXthNC
-
-###### ===
-
-##### 
-
-###### === END ===
-
-##### 
-
-##### 
+---
 
 ###### === PT-BR ===
 
@@ -721,7 +697,7 @@ c8m1\_apartment-EXTRA-CHANGES: Munições extras e pequenas mudanças pelo mapa.
 
 ###### ===
 
-###### Bugs, sugestões e reclamações podem entrar em contato pelo meu canal no Discord:
+###### <sup>Bugs, sugestões e reclamações podem entrar em contato pelo meu canal no Discord:</sup>
 
 ###### https://discord.gg/HnMjXthNC
 
