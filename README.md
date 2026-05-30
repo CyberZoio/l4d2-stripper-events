@@ -34,6 +34,7 @@ https://discord.gg/HnMjXthNC
 ---
 
 <sup>Access the Steam group for my Left 4 Dead 2 server:</sup>
+
 https://steamcommunity.com/groups/CyberZoio
 
 ---
@@ -346,6 +347,7 @@ https://discord.gg/HnMjXthNC
 ---
 
 <sup>Acesse o grupo Steam do meu servidor de Left 4 Dead 2:</sup>
+
 https://steamcommunity.com/groups/CyberZoio
 
 ---
