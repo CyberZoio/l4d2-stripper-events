@@ -69,7 +69,7 @@ https://www.streamar.com.br/cyberzoio
     - c2m1\_highway-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders and minor map changes.
 
   - <details><summary>c2m2_fairgrounds</summary>
-    
+  
     - c2m2\_fairgrounds-TANK-SPAWN: A door will break near the shooting gallery and a Tank will be activated.
     - c2m2\_fairgrounds-FOLLOW-CAR-SHOW: Survivors must refuel the car carrying a power generator to the carousel.
     - c2m2\_fairgrounds-WOOD-BARRICADE: A wooden barricade must be destroyed to proceed.
@@ -92,211 +92,180 @@ https://www.streamar.com.br/cyberzoio
     - c2m5\_concert-RAIN+SOUNDSCAPE: A rainy weather event complete with sound and visual effects.
     - c2m5\_concert-EXTRA-CHANGES: Extra ammunition and minor map changes.
 
-</details>
+ </details>
 
 - <details><summary>C3 Swamp Fever</summary>
-  
+
   - <details><summary>c3m1_plankcountry</summary>
-    
-    - c3m1\_plankcountry-SCAVENGER-FERRY: Survivors must refuel the power generator to start the ferry. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-    - c3m1\_plankcountry-TANK-SPAWN: A barricade will break on the walkway and a Tank will be activated. (Create by CyberZoio)
-    - c3m1\_plankcountry-EXTRA-CHANGES: Extra ammunition and minor map changes. (Create by CyberZoio)
+  
+    - c3m1\_plankcountry-SCAVENGER-FERRY: Survivors must refuel the power generator to start the ferry.
+    - c3m1\_plankcountry-TANK-SPAWN: A barricade will break on the walkway and a Tank will be activated.
+    - c3m1\_plankcountry-EXTRA-CHANGES: Extra ammunition and minor map changes.
+
+  - <details><summary>c3m2_swamp</summary>
+
+    - c3m2\_swamp-AIRCRAFT-CRASH+TANK-SPAWN: A small plane will crash near the final saferoom and a Tank will be activated.
+    - c3m2\_swamp-EXTRA-CHANGES: Extra ammunition and minor map changes.
+
+  - <details><summary>c3m3_shantytown</summary>
+
+    - c3m3\_shantytown-F18-BOMBER: Fighter jets will bomb the village.
+    - c3m3\_shantytown-TANK-SPAWN: An explosion will occur in a hut and a Tank will be activated.
+    - c3m3\_shantytown-EXTRA-CHANGES: Extra ammunition and minor map changes.
+
+  - <details><summary>c3m4_plantation</summary>
+  
+    - c3m4\_plantation-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes.
+
+</details>
+
+- <details><summary>C4 Hard Rain</summary>
+
+  - <details><summary>c4m1_milltown_a</summary>
+  
+    - c4m1\_milltown\_a-TANK-SPAWN: A truck will explode and a Tank will be activated.
+    - c4m1\_milltown\_a-TRUCK-CRASH: An out-of-control truck will crash into a tree.
+    - c4m1\_milltown\_a-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes.
+
+  - <details><summary>c4m2_sugarmill_a</summary>
+  
+    - c4m2\_sugarmill\_a-SCAVENGER-ELEVATOR: The survivors will have to refuel the generator to power the scaffolding.
+    - c4m2\_sugarmill\_a-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion at the gas station will occur and a Tank will be activated.
+    - c4m2\_sugarmill\_a-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes.
+
+  - <details><summary>c4m3_sugarmill_b</summary>
+   
+    - c4m3\_sugarmill\_b-ELEVATOR-EVENT-PROPS: Scenery related to the "c4m2\_sugarmill\_a-SCAVENGER-ELEVATOR" event.
+    - c4m3\_sugarmill\_b-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes.
+
+  - <details><summary>c4m4_milltown_b</summary>
+   
+    - c4m4\_milltown\_b-BOAT-RUN: A boat ride to the final saferoom.
+    - c4m4\_milltown\_b-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes.
+
+  - <details><summary>c4m5_milltown_escape</summary>
+   
+    - c4m5\_milltown\_escape-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes.
+
+</details>
+
+- <details><summary>C5 The Parish</summary>
+ 
+  - <details><summary>c5m1_waterfront</summary>
+   
+    - c5m1\_waterfront-RESTAURANT-ALARM: Opening the restaurant door will activate the alarm.
+    - c5m1\_waterfront-NEW-ROUTE: A different route to follow.
+    - c5m1\_waterfront-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes.
+
+  - <details><summary>c5m2_park</summary>
+   
+    - c5m2\_park-C130-BOMBER+TANK-SPAWN: After defeating the Tank in the park, a bombing raid will destroy the barricade.
+    - c5m2\_park-SHORTCUT-TO-PLAYERS: A shortcut will be available for players who are running late.
+    - c5m2\_park-TOUR-BUS-PASSING: The rock band continues the tour fighting zombies.
+    - c5m2\_park-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes.
+
+  - <details><summary>c5m3_cemetery</summary>
+   
+    - c5m3\_cemetery-METAL-BARRICADE: A metal barricade must be destroyed to proceed.
+    - c5m3\_cemetery-F18-PASSING+TANK-SPAWN: Fighter jets will bomb the bridge, activating a Tank.
+    - c5m3\_cemetery-SLOWMOTION-F18-BRIDGE: Camera effect when the bridge explodes near the cemetery.
+    - c5m3\_cemetery-EXTRA-CHANGES: Extra ammunition and minor map changes.
+
+  - <details><summary>c5m4_quarter</summary>
+   
+    - c5m4\_quarter-SCAVENGER-TRACTOR: Survivors must refuel the tractor to start it.
+    - c5m4\_quarter-F18-PASSING+TANK-SPAWN: A fighter jet will destroy a barricade and a Tank will be activated.
+    - c5m4\_quarter-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes.
+
+  - <details><summary>c5m5_bridge</summary>
+   
+    - c5m5\_bridge-EXTRA-CHANGES: Extra ammunition, ladders, and minor map changes.
+
+</details>
+
+- <details><summary>C8 No Mercy</summary>
+
+  - <details><summary>c8m1_apartment</summary>
+  
+    - c8m1\_apartment-TANK-SPAWN: A door will break near the warehouse and a Tank will be activated.
+    - c8m1\_apartment-NEW-ROUTE: A different route to follow.
+    - c8m1\_apartment-EXTRA-CHANGES: Extra ammunition and minor map changes.
+
+  - <details><summary>c8m2_subway</summary>
+  
+    - c8m2\_subway-CAR-CRASH+TANK-SPAWN: An out-of-control car will crash into the wall and a Tank will be activated.
+    - c8m2\_subway-EXTRA-CHANGES: Extra ammunition and minor map changes.
+
+  - <details><summary>c8m3_sewers</summary>
+  
+    - c8m3\_sewers-SCAVENGER-LIFT: Survivors must refuel the power generator to power the scaffolding.
+    - c8m3\_sewers-SLOWMOTION-GAS-EXPLOSION: Camera effect when the gas station explodes.
+    - c8m3\_sewers-THE-PARACHUTIST+TANK-SPAWN: A Tank will parachute from the building.
+    - c8m3\_sewers-WOOD-BARRICADE: A wooden barricade must be destroyed to proceed.
+    - c8m3\_sewers-EXTRA-CHANGES: Extra ammunition and minor map changes.
+
+  - <details><summary>c8m4_interior</summary>
+  
+    - c8m4\_interior-HELI-PASSING: The helicopter continues to rescue survivors on top of the building.
+    - c8m4\_interior-EXTRA-CHANGES: Extra ammunition and minor map changes.
+
+  - <details><summary>c8m5_rooftop</summary>
+   
+    - c8m5\_rooftop-EXTRA-CHANGES: Extra ammunition and minor map changes.
+
+</details>
+
+- <details><summary>C9 Crash Course</summary>
+
+  - <details><summary>c9m2_lots</summary>
+   
+    - c9m1\_alleys-TANK-SPAWN: A door will break near the start and a Tank will be activated.
+    - c9m1\_alleys-SLOWMOTION-HOWITZER-EXPLOSION: Camera effect when the gate explodes.
+    - c9m1\_alleys-EXTRA-CHANGES: Extra ammunition and minor map changes.
+
+  - <details><summary>c10m1_caves</summary>
+   
+    - c9m2\_lots-EXTRA-CHANGES+LADDERS: Extra ammunition, extra ladders, and minor map changes.
+
+</details>
+
+- <details><summary>C10 Death Tool</summary>
+
+  - <details><summary>c10m1_caves</summary>
+   
+    - c10m1\_caves-TUNNEL-BLOCK: Activate the explosives and destroy the tunnel blockage.
+    - c10m1\_caves-SLIDE-DOOR+TANK-SPAWN: Survivors must open a door to the outside area and a Tank will be activated.
+    - c10m1\_caves-EXTRA-CHANGES: Extra ammunition and minor map changes.
+
+  - <details><summary>c10m2_drainage</summary>
+
+##### c10m2\_drainage-SCAVENGER-BRIDGE: Survivors must refuel the power generator to power the bridge.
+
+##### c10m2\_drainage-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion near the final saferoom will occur, and a Tank will be activated.
+
+##### c10m2\_drainage-EXTRA-CHANGES: Extra ammunition and minor map changes.
 
 ##### 
 
-##### c3m2\_swamp-AIRCRAFT-CRASH+TANK-SPAWN: A small plane will crash near the final saferoom and a Tank will be activated. (Create by CyberZoio)
+##### c10m3\_ranchhouse-POLICE-CAR-COLA: Help the city survivors escape by taking some supplies from the police car.
 
-##### c3m2\_swamp-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
+##### c10m3\_ranchhouse-CHURCH-GUY+TANK-SPAWN: The church citizen transforms into a Tank.
 
-##### 
-
-##### c3m3\_shantytown-F18-BOMBER: Fighter jets will bomb the village (Edited by CyberZoio. Original by https://github.com/Attano/Sky)
-
-##### c3m3\_shantytown-TANK-SPAWN: An explosion will occur in a hut and a Tank will be activated. (Created by CyberZoio)
-
-##### c3m3\_shantytown-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
+##### c10m3\_ranchhouse-EXTRA-CHANGES: Extra ammunition and minor map changes.
 
 ##### 
 
-##### c3m4\_plantation-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)
+##### c10m4\_mainstreet-CAMPING-SURVIVORS-PROPS: Scenario related to the event "c10m3\_ranchhouse-POLICE-CAR-COLA".
+
+##### c10m4\_mainstreet-SCAVENGER-FORKLIFT: Survivors must refuel the forklift to activate it.
+
+##### c10m4\_mainstreet-TANK-SPAWN: A door will break in the parking lot and a Tank will be activated.
+
+##### c10m4\_mainstreet-EXTRAS-CHANGES: Extra ammunition and minor map changes.
 
 ##### 
 
-##### 
-
-#### C4 Hard Rain:
-
-##### c4m1\_milltown\_a-TANK-SPAWN: A truck will explode and a Tank will be activated. (Created by CyberZoio)
-
-##### c4m1\_milltown\_a-TRUCK-CRASH: An out-of-control truck will crash into a tree. (Created by CyberZoio)
-
-##### c4m1\_milltown\_a-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c4m2\_sugarmill\_a-SCAVENGER-ELEVATOR: (Edited by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c4m2\_sugarmill\_a-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion at the gas station will occur and a Tank will be activated. (Created by CyberZoio)
-
-##### c4m2\_sugarmill\_a-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c4m3\_sugarmill\_b-ELEVATOR-EVENT-PROPS: Scenery related to the "c4m2\_sugarmill\_a-SCAVENGER-ELEVATOR" event. (Created by CyberZoio)
-
-##### c4m3\_sugarmill\_b-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c4m4\_milltown\_b-BOAT-RUN: A boat ride to the final saferoom. (Created by CyberZoio)
-
-##### c4m4\_milltown\_b-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c4m5\_milltown\_escape-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### 
-
-#### C5 The Parish:
-
-##### c5m1\_waterfront-RESTAURANT-ALARM: Opening the restaurant door will activate the alarm. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c5m1\_waterfront-NEW-ROUTE: A different route to follow. (Created by CyberZoio)
-
-##### c5m1\_waterfront-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c5m2\_park-C130-BOMBER+TANK-SPAWN: After defeating the Tank in the park, a bombing raid will destroy the barricade. (Created by CyberZoio)
-
-##### c5m2\_park-SHORTCUT-TO-PLAYERS: A shortcut will be available for players who are running late. (Created by CyberZoio)
-
-##### c5m2\_park-TOUR-BUS-PASSING: The rock band continues the tour fighting zombies. (Created by CyberZoio)
-
-##### c5m2\_park-EXTRA-CHANGES+LADDERS: Ammunition, extra ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c5m3\_cemetery-METAL-BARRICADE: A metal barricade must be destroyed to proceed. (Edited by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c5m3\_cemetery-F18-PASSING+TANK-SPAWN: Fighter jets will bomb the bridge, activating a Tank. (Edited by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c5m3\_cemetery-SLOWMOTION-F18-BRIDGE: Camera effect when the bridge explodes near the cemetery. (Created by CyberZoio)
-
-##### c5m3\_cemetery-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c5m4\_quarter-SCAVENGER-TRACTOR: Survivors must refuel the tractor to start it. (Edited by CyberZoio. Original by https://github.com/Attano/Sky)
-
-##### c5m4\_quarter-F18-PASSING+TANK-SPAWN: A fighter jet will destroy a barricade and a Tank will be activated. (Created by CyberZoio)
-
-##### c5m4\_quarter-EXTRA-CHANGES+LADDERS: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c5m5\_bridge-EXTRA-CHANGES: Extra ammunition, ladders, and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### 
-
-#### C8 No Mercy:
-
-##### c8m1\_apartment-TANK-SPAWN: A door will break near the warehouse and a Tank will be activated. (Create by CyberZoio)
-
-##### c8m1\_apartment-NEW-ROUTE: A different route to follow. (Create by CyberZoio)
-
-##### c8m1\_apartment-EXTRA-CHANGES: Extra ammunition and minor map changes. (Create by CyberZoio)
-
-##### 
-
-##### c8m2\_subway-CAR-CRASH+TANK-SPAWN: An out-of-control car will crash into the wall and a Tank will be activated. (Create by CyberZoio)
-
-##### c8m2\_subway-EXTRA-CHANGES: Extra ammunition and minor map changes. (Create by CyberZoio)
-
-##### 
-
-##### c8m3\_sewers-SCAVENGER-LIFT: Survivors must refuel the power generator to power the scaffolding. (Create by CyberZoio)
-
-##### c8m3\_sewers-SLOWMOTION-GAS-EXPLOSION: Camera effect when the gas station explodes. (Create by CyberZoio)
-
-##### c8m3\_sewers-THE-PARACHUTIST+TANK-SPAWN: A Tank will parachute from the building. (Create by CyberZoio)
-
-##### c8m3\_sewers-WOOD-BARRICADE: A wooden barricade must be destroyed to proceed. (Create by CyberZoio)
-
-##### c8m3\_sewers-EXTRA-CHANGES: Extra ammunition and minor map changes. (Create by CyberZoio)
-
-##### 
-
-##### c8m4\_interior-HELI-PASSING: The helicopter continues to rescue survivors on top of the building. (Create by CyberZoio)
-
-##### c8m4\_interior-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c8m5\_rooftop-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### 
-
-#### C9 Crash Course:
-
-##### c9m1\_alleys-TANK-SPAWN: A door will break near the start and a Tank will be activated. (Create by CyberZoio)
-
-##### c9m1\_alleys-SLOWMOTION-HOWITZER-EXPLOSION: Camera effect when the gate explodes. (Create by CyberZoio)
-
-##### c9m1\_alleys-EXTRA-CHANGES: Extra ammunition and minor map changes. (Create by CyberZoio)
-
-##### 
-
-##### c9m2\_lots-EXTRA-CHANGES+LADDERS: Extra ammunition, extra ladders, and minor map changes. (Create by CyberZoio)
-
-##### 
-
-##### 
-
-#### C10 Death Tool:
-
-##### c10m1\_caves-TUNNEL-BLOCK: Activate the explosives and destroy the tunnel blockage. (Edit by Cyberzoio. Original by https://forums.alliedmods.net/showthread.php?p=2767455)
-
-##### c10m1\_caves-SLIDE-DOOR+TANK-SPAWN: Survivors must open a door to the outside area and a Tank will be activated. (Created by CyberZoio)
-
-##### c10m1\_caves-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c10m2\_drainage-SCAVENGER-BRIDGE: Survivors must refuel the power generator to power the bridge. (Edit by Cyberzoio. Original by https://github.com/Attano/Sky)
-
-##### c10m2\_drainage-EXPLODE-GASTANKER+TANK-SPAWN: A gas tank explosion near the final saferoom will occur, and a Tank will be activated. (Created by CyberZoio)
-
-##### c10m2\_drainage-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c10m3\_ranchhouse-POLICE-CAR-COLA: Help the city survivors escape by taking some supplies from the police car. (Created by CyberZoio)
-
-##### c10m3\_ranchhouse-CHURCH-GUY+TANK-SPAWN: The church citizen transforms into a Tank. (Created by CyberZoio)
-
-##### c10m3\_ranchhouse-EXTRA-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c10m4\_mainstreet-CAMPING-SURVIVORS-PROPS: Scenario related to the event "c10m3\_ranchhouse-POLICE-CAR-COLA". (Created by CyberZoio)
-
-##### c10m4\_mainstreet-SCAVENGER-FORKLIFT: Survivors must refuel the forklift to activate it. (Created by CyberZoio)
-
-##### c10m4\_mainstreet-TANK-SPAWN: A door will break in the parking lot and a Tank will be activated. (Created by CyberZoio)
-
-##### c10m4\_mainstreet-EXTRAS-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
-
-##### 
-
-##### c10m5\_houseboat-EXTRAS-CHANGES: Extra ammunition and minor map changes. (Created by CyberZoio)
+##### c10m5\_houseboat-EXTRAS-CHANGES: Extra ammunition and minor map changes.
 
 ##### 
 
