@@ -1,7 +1,6 @@
 ### l4d2-stripper-events
 ###### Left 4 Dead 2 Stripper Events by CyberZoio
-
-
+---
 ###### (google translator, sorry! :P)
 >Hello to the entire Left 4 Dead 2 community!
 >
@@ -13,16 +12,14 @@
 >
 >Events for campaigns C6 The Passing, C7 The Sacrifice, C12 Blood Harvest, C13 Cold Stream, and C14 Last Stand have not yet been created.
 >I will post them as soon as new content is completed.
-
---
-
+---
 >If you wish to contribute financially in any amount to my work, please visit:
 >
 >https://www.streamar.com.br/cyberzoio
 >
 >For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.
 >For residents outside of Brazil, contributions can be made via PayPal.
-
+---
 ### About the events:
 
 #### C1 Dead Center:
