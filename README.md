@@ -17,7 +17,7 @@
 >
 >https://www.streamar.com.br/cyberzoio
 >
->For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.
+>For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.  
 >For residents outside of Brazil, contributions can be made via PayPal.
 ---
 ### About the events:
