@@ -4,7 +4,8 @@
 ###### (google translator, sorry! :P)
 >Hello to the entire Left 4 Dead 2 community!  
 >
->Here I present my greatest contribution to this wonderful game, strongly supported by the community.  
+>Here I present my greatest contribution to this wonderful game, strongly supported by the community.
+> 
 >A series of new Left 4 Dead 2 events for Stripper Source, developed, edited, and rewritten by me.  
 >Other events available from the community, which I accessed and were inspired by, edited, and rewritten by me, will receive proper credit from the creators and their teams.  
 >
