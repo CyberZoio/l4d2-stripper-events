@@ -35,7 +35,7 @@ For residents outside of Brazil, contributions can be made via PayPal.</sup>
 
 ---
 
-**About the events:**
+**About ready-made events:**
 
 - <details><summary>C1 Dead Center</summary>
   
@@ -344,7 +344,7 @@ Para residentes fora do Brasil, é possível contribuir via PayPal.</sup>
 
 ---
 
-**Sobre os eventos:**
+**Sobre os eventos prontos:**
 
 - <details><summary>C1 Dead Center</summary>
 
