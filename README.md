@@ -18,18 +18,20 @@ I will post them as soon as new content is completed.
 
 ---
 
-<sup>If you wish to financially support my work with any amount, please visit:</sup>
+<sup>If you wish to financially support me with any amount for this work, please visit:</sup>
 
-https://www.streamar.com.br/cyberzoio
+<sup>[Donate and Social Media](https://www.streamar.com.br/cyberzoio)</sup>
 
 <sup>For residents of Brazil, contributions can be made via PIX, PicPay, and MercadoPago.\
 For residents outside of Brazil, contributions can be made via PayPal.</sup>
 
 ---
 
-<sup>For bugs, suggestions, and complaints, please contact me through my Discord channel:</sup>
+<sup>For bugs, suggestions, and complaints, please contact me through my [Discord](https://discord.gg/HnMjXthNC) channel.</sup>
 
-https://discord.gg/HnMjXthNC
+---
+
+<sup>Access the [Steam Group](https://steamcommunity.com/groups/CyberZoio) for my Left 4 Dead 2 server.</sup>
 
 ---
 
@@ -325,18 +327,20 @@ Postarei assim que houver novos conteúdos finalizados.
 
 ---
 
-<sup>Se deseja apoiar financeiramente com qualquer valor sobre este meu trabalho, acesse:</sup>
+<sup>Se deseja me apoiar financeiramente com qualquer valor sobre este trabalho, acesse:</sup>
 
-https://www.streamar.com.br/cyberzoio
+<sup>[Donate e Redes Sociais](https://www.streamar.com.br/cyberzoio)</sup>
 
 <sup>Para residentes no Brasil, é possível contribuir via PIX, PicPay e Mercado pago.\
 Para residentes fora do Brasil, é possível contribuir via PayPal.</sup>
 
 ---
 
-<sup>Bugs, sugestões e reclamações podem entrar em contato pelo meu canal no Discord:</sup>
+<sup>Bugs, sugestões e reclamações podem entrar em contato pelo meu canal no [Discord](https://discord.gg/HnMjXthNC)</sup>
 
-https://discord.gg/HnMjXthNC
+---
+
+<sup>Acesse o [Grupo Steam](https://steamcommunity.com/groups/CyberZoio) do meu servidor de Left 4 Dead 2</sup>
 
 ---
 
