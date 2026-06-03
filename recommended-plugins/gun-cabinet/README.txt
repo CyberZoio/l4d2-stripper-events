@@ -5,4 +5,4 @@ Plugin created by Silvers
 https://forums.alliedmods.net/showthread.php?p=2008481
 
 
-data file update for cyberzoio's stripper source events
+note: data file update for stripper source events
