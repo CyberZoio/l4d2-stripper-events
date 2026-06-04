@@ -27,7 +27,7 @@ For residents outside of Brazil, contributions can be made via PayPal.</sup>
 
 ---
 
-<sup>For bugs, suggestions, and complaints, please contact me through my [Discord](https://discord.gg/HnMjXthNC) channel.</sup>
+<sup>For bugs, suggestions, and complaints, please contact me through my [Discord](https://discord.gg/2W2PVEHJTF) channel.</sup>
 
 ---
 
